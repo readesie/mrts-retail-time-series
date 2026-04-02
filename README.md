@@ -26,7 +26,7 @@ Analyzes retail sales trends across 8+ business categories using:
 
 ## How to Run
 1. Clone this repo: `git clone https://github.com/readesie/mrts-retail-time-series.git`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip install -r requirements.txt` (pip freeze > requirements.txt to fetch)
 3. Download the MRTS Excel file from the [Census Bureau](https://www.census.gov/retail/mrts/about_the_surveys.html)
 4. Update file paths in the notebooks/scripts to match your local setup
 5. Run the schema and data load scripts first, then open the Jupyter notebook
