@@ -47,7 +47,7 @@ mrts-retail-time-series/
 ```
 
 ## Data Source
-United States Census Bureau — [Monthly Retail Trade Survey](https://www.census.gov/retail/mrts/about_the_surveys.html)
+United States Census Bureau — [Monthly Retail Trade Survey](https://www.census.gov/retail/sales.html)
 
 ## References
 See the References section of the notebook for full citations.
